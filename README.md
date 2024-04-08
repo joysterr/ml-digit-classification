@@ -5,14 +5,14 @@ This project serves as a good refresher for tensorflow in python and computer vi
 
 
 ## 🔭 Project Outcome
-{_in progress_}
+{testing_in progress_}
 
 
 ## 🛠️ Instructions
 ### to run locally:
 - clone git repo or download
 - create a python environment
-- install tensorflow, numpy, matplotlib and opencv-python packages
+- install tensorflow, numpy, matplotlib and opencv-python packages via pip/pip3
 - run .ipynb file
 
 ### to run in colab
